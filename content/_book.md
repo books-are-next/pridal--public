@@ -1,36 +1,146 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  identifier: urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b
+  modified: '2020-04-29T13:44:46.000Z'
+  author: "Tomáš Přidal"
+  title: "Pikantní poldové"
+  languageCode: "cs"
+  contentType: "prose"
+  publisher: "Městská knihovna v Praze"
+  publisherShort: "mkp"
+  edition: "beletrie"
+readingOrder:
+  - promo.html
+  - pikantni_poldove-1.html
+  - pikantni_poldove-2.html
+  - pikantni_poldove-3.html
+  - pikantni_poldove-4.html
+  - pikantni_poldove-5.html
+  - pikantni_poldove-6.html
+  - pikantni_poldove-7.html
+  - pikantni_poldove-8.html
+  - pikantni_poldove-9.html
+  - pikantni_poldove-10.html
+  - pikantni_poldove-11.html
+  - pikantni_poldove-12.html
+  - pikantni_poldove-13.html
+  - pikantni_poldove-14.html
+  - pikantni_poldove-15.html
+  - pikantni_poldove-16.html
+  - pikantni_poldove-17.html
+  - pikantni_poldove-18.html
+  - pikantni_poldove-19.html
+  - pikantni_poldove-20.html
+  - pikantni_poldove-21.html
+  - pikantni_poldove-22.html
+  - pikantni_poldove-23.html
+  - pikantni_poldove-24.html
+  - pikantni_poldove-25.html
+  - pikantni_poldove-26.html
+  - pikantni_poldove-27.html
+  - pikantni_poldove-28.html
+  - pikantni_poldove-29.html
+  - pikantni_poldove-30.html
+  - pikantni_poldove-31.html
+  - pikantni_poldove-32.html
+  - pikantni_poldove-33.html
+  - pikantni_poldove-34.html
+  - pikantni_poldove-35.html
+  - pikantni_poldove-36.html
+  - pikantni_poldove-37.html
+  - pikantni_poldove-38.html
+  - pikantni_poldove-39.html
+  - pikantni_poldove-40.html
+  - pikantni_poldove-41.html
+  - pikantni_poldove-42.html
+  - pikantni_poldove-43.html
+  - pikantni_poldove-44.html
+  - pikantni_poldove-45.html
+  - pikantni_poldove-46.html
+  - pikantni_poldove-47.html
+  - pikantni_poldove-48.html
+  - pikantni_poldove-49.html
+  - pikantni_poldove-50.html
+  - pikantni_poldove-51.html
+  - pikantni_poldove-52.html
+  - pikantni_poldove-53.html
+  - pikantni_poldove-54.html
+  - pikantni_poldove-55.html
+  - pikantni_poldove-56.html
+  - pikantni_poldove-57.html
+  - pikantni_poldove-58.html
+  - pikantni_poldove-59.html
+  - pikantni_poldove-60.html
+  - pikantni_poldove-61.html
+  - pikantni_poldove-62.html
+  - pikantni_poldove-63.html
+  - pikantni_poldove-64.html
+  - pikantni_poldove-65.html
+  - pikantni_poldove-66.html
+  - pikantni_poldove-67.html
+  - pikantni_poldove-68.html
+  - pikantni_poldove-69.html
+  - pikantni_poldove-70.html
+  - pikantni_poldove-71.html
+  - pikantni_poldove-72.html
+  - pikantni_poldove-73.html
+  - pikantni_poldove-74.html
+  - pikantni_poldove-75.html
+  - pikantni_poldove-76.html
+  - pikantni_poldove-77.html
+  - pikantni_poldove-78.html
+  - pikantni_poldove-79.html
+  - pikantni_poldove-80.html
+  - pikantni_poldove-81.html
+  - pikantni_poldove-82.html
+  - pikantni_poldove-83.html
+  - pikantni_poldove-84.html
+  - pikantni_poldove-85.html
+  - pikantni_poldove-86.html
+  - pikantni_poldove-87.html
+  - pikantni_poldove-88.html
+  - pikantni_poldove-89.html
+  - pikantni_poldove-90.html
+  - pikantni_poldove-91.html
+  - pikantni_poldove-92.html
+  - pikantni_poldove-93.html
+  - pikantni_poldove-94.html
+  - pikantni_poldove-95.html
+  - pikantni_poldove-96.html
+  - pikantni_poldove-97.html
+  - pikantni_poldove-98.html
+  - pikantni_poldove-99.html
+  - pikantni_poldove-100.html
+  - pikantni_poldove-101.html
+  - pikantni_poldove-102.html
+  - pikantni_poldove-103.html
+  - pikantni_poldove-104.html
+  - pikantni_poldove-105.html
+  - pikantni_poldove-106.html
+  - pikantni_poldove-107.html
+  - pikantni_poldove-108.html
+  - pikantni_poldove-109.html
+  - pikantni_poldove-110.html
+  - pikantni_poldove-111.html
+  - pikantni_poldove-112.html
+  - pikantni_poldove-113.html
+  - pikantni_poldove-114.html
+  - pikantni_poldove-115.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
+  - assets
   - favicon.png
 ---
