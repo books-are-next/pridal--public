@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "pridal-pikantni-poldove-0191ec6",
-  "revision": "0191ec6",
+  "identifier": "pridal-pikantni-poldove-dfda855",
+  "revision": "dfda855",
   "readingOrder": [
     "promo.html",
     "pikantni_poldove-1.html",
@@ -129,8 +129,8 @@
     "pikantni_poldove-115.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:59:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151163521
+    "date": "Mon Oct 10 2022 15:52:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417130517
   },
   "documents": [
     {
